@@ -12,3 +12,5 @@ Enhancing Customer Retention for PowerCo through Data-Driven Insights and Person
    achieving an 85% accuracy rate in predicting customer churn.
  * Completed a concise executive summary for the Associate Director, delivering
    actionable insights for informed decision-making based on the analysis.
+
+[Model Answer - Email.pdf](https://github.com/prakashzhaa/PowerCo-Customer-Retention/files/15369158/Model.Answer.-.Email.pdf)

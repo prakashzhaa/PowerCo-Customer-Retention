@@ -14,4 +14,4 @@ Enhancing Customer Retention for PowerCo through Data-Driven Insights and Person
    actionable insights for informed decision-making based on the analysis.
 
 # Final Report to TL
-[Final Report Link]("https://github.com/prakashzhaa/PowerCo-Customer-Retention/blob/6b1340a659e0e2ba358687d9152551b58e64c381/Report/hypotheis_powerco.pdf")
+[Final Report Link("https://github.com/prakashzhaa/PowerCo-Customer-Retention/blob/6b1340a659e0e2ba358687d9152551b58e64c381/Report/hypotheis_powerco.pdf")]
